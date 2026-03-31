@@ -1,8 +1,8 @@
 module.exports = {
-  user: 'nblkadmin',
-  password: 'Neu@12341121',
-  server: 'nblk-sql-server2.database.windows.net',
-  database: 'customers-db',
+  user: process.env.DB_USER,
+  password: process.env.DB_PASSWORD,
+  server: process.env.DB_SERVER,
+  database: process.env.DB_NAME,
   options: {
     encrypt: true,
     trustServerCertificate: false
