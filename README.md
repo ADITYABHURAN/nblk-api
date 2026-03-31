@@ -1,4 +1,4 @@
-# NBLK Customer Management App
+# Customer Management App
 
 A full-stack cloud application built on Microsoft Azure to demonstrate small business customer management.
 
