@@ -3,10 +3,10 @@
 A full-stack cloud application built on Microsoft Azure to demonstrate small business customer management.
 
 ## Live Demo
-- **API:** https://nblk-functions-2026.azurewebsites.net/api
+- **API:** https://nblk-functions-2026.azurewebsites.net/api/getcustomers
 
 ## Architecture
-![Architecture](architecture_flowchart.svg)
+![Architecture](azure_project_architecture_flowchart.svg)
 
 ## Azure Services Used
 - **Azure SQL Database** — stores customer data
